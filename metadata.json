@@ -1,0 +1,6 @@
+{
+  "name": "EcoSyntropia",
+  "description": "Iniciativa para autonomia na prevenção e na adaptação às consequências climáticas e ambientais. Curadoria de proteção contra exposição a mosquitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
